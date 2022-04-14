@@ -1,15 +1,13 @@
 # NFTix Demo UI
 
-This repository contains the UI used for my Egghead course on building a NFT ticketing system 🥚 🤓
-
-If you're watching the videos, use the `main` branch to follow along. To see the final results, checkout the `final` branch.
+This repository contains a NFT ticketing system 🥚 🤓
 
 ## Get started
 
 1. Clone the repo to you local system
 
 ```bash
-git clone git@github.com:ryancharris/nftix-demo-ui.git
+git clone git@github.com:giuseppecrj/nftix-demo.git
 ```
 
 2. Open the directory
